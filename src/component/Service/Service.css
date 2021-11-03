@@ -1,0 +1,17 @@
+.text-primary {
+  color: darkcyan !important;
+  font-size: 50px;
+}
+
+.card-body hr {
+  width: 50x;
+  height: 4px;
+  background-color: darkcyan;
+  border: none;
+}
+
+.btn-primary {
+  background-color: darkcyan !important;
+  padding: 10px 40px;
+  border: none;
+}

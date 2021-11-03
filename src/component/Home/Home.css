@@ -1,0 +1,29 @@
+.carousel-caption {
+  margin-bottom: 143px;
+}
+.fr-icon {
+  font-size: 65px;
+}
+.free-service {
+  width: 326px;
+}
+.bg-service {
+  background-color: darkcyan;
+}
+
+.free-service:hover {
+  background-color: rgba(221, 221, 221, 0.767) !important;
+  transition: 0.5s;
+}
+
+.about-sec {
+  padding: 50px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.about-button {
+  background-color: darkcyan;
+  padding: 10px 40px;
+  border: none;
+}
